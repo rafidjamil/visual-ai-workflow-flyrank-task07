@@ -1,0 +1,15 @@
+# Node Dependencies (Frontend + Backend dono cover honge)
+node_modules/
+
+# Environment Variables
+.env
+.env.*
+
+# Build Outputs
+dist/
+build/
+.eslintcache
+
+# OS Files
+.DS_Store
+.vscode/
